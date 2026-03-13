@@ -1,5 +1,7 @@
 ## Введение в Koin
 
+https://insert-koin.io/docs/intro/
+
 Koin - легковесный DI framework для Kotlin. По идее его можно применять в Android, KMP, Ktor, Spring и тд.
 
 ### Koin можно подключать через аннотации и через Kotlin DSL
